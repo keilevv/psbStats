@@ -8,6 +8,5 @@ Para la ejecución de este servico se utiliza Python 3.X.
 3. Ejecutar pip install -r requirements.txt
 4. Ejecutar python stats.py
 5. Para obtener estadísticas generales, ingresar a localhost:8000/psb/statistics 
-6. Para obtener estadísticas específicas de un PSB, ingresar a localhost:8000/psb/statistics/<latitud>/<longitud>
+6. Para obtener estadísticas específicas de un PSB, ingresar a localhost:8000/psb/statistics/latitud/longitud  (ingresar latitud y longitud de PSB's activos en PSB API)
   
- 
